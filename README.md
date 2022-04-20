@@ -1,1 +1,1 @@
-# PAC2-VisualitzaciO-de-dades
+# PAC2-Visualitzacio de dades
